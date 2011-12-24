@@ -30,7 +30,7 @@
  *  @author     Micah Carrick
  *  @copyright  (c) 2010 - Micah Carrick
  *  @version    2.0
- *  @license http://opensource.org/licenses/gpl-3.0.html GNU General Public License v3
+ *  @license 	BSD
  */
 class MySqlDatabase
 {
