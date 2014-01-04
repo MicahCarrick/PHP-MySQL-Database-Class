@@ -136,6 +136,7 @@ class MySqlResultSet implements Iterator
                     break;
                 case MySqlResultSet::DATA_ARRAY: 
                     $func = 'mysql_fetch_array';
+                    break;
                 default: 
                     $func = 'mysql_fetch_object';
                     break;
