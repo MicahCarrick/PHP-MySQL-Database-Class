@@ -10,9 +10,7 @@
  *  a MySQL database in PHP 5. You can get the object's instance using the 
  *  static {@link getInstance()} method. Being a singleton object, this class
  *  only supports one open database connection at a time and idealy suited to
- *  single-threaded applications. You can read 
- *  about {@link http://php.net/manual/en/language.oop5.patterns.php the singleton 
- *  pattern in the PHP manual}.
+ *  single-threaded applications.
  *  
  *  <b>Getting Started</b>
  *  <code>
